@@ -1,2 +1,2 @@
-# Ecommerce-Using-Flask-React-Postgresql_FullStack
-Built Ecommerce Website Using Flask for backend , React for frontend , Postgresql for my database and dockerized it on docker.
+# RESTFUL-API-CRUD-WEB-Application_FullStack
+Using Flask And React
